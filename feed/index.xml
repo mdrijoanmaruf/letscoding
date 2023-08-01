@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Let&#039;s Coding</title>
+	<atom:link href="httpmdrijoanmaruf.github.io/letscoding/feed/" rel="self" type="application/rss+xml" />
+	<link>httpmdrijoanmaruf.github.io/letscoding</link>
+	<description></description>
+	<lastBuildDate>Tue, 01 Aug 2023 11:25:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Linux</title>
+		<link>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/linux/</link>
+					<comments>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/linux/#respond</comments>
+		
+		<dc:creator><![CDATA[letscoding]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2023 11:22:38 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">httpmdrijoanmaruf.github.io/letscoding/?p=843</guid>
+
+					<description><![CDATA[Learning Linux is a valuable skill for anyone interested in computer science, programming, or system administration. Linux is an open-source operating system widely used in servers, embedded systems, and personal computers. Here&#8217;s a guideline to help you get started with Linux:   1. **Linux Distributions:**    &#8211; Understand that Linux comes in various distributions (distros), &#8230;<p class="read-more"> <a class="" href="httpmdrijoanmaruf.github.io/letscoding/2023/08/01/linux/"> <span class="screen-reader-text">Linux</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="843" class="elementor elementor-843">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-0f8c7f6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0f8c7f6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-424e408" data-id="424e408" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d2fccd7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d2fccd7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1b6449c" data-id="1b6449c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-22408c1 elementor-widget elementor-widget-text-editor" data-id="22408c1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.15.0 - 31-07-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Learning Linux is a valuable skill for anyone interested in computer science, programming, or system administration. Linux is an open-source operating system widely used in servers, embedded systems, and personal computers. Here&#8217;s a guideline to help you get started with Linux:</p><p> </p><p>1. **Linux Distributions:**</p><p>   &#8211; Understand that Linux comes in various distributions (distros), each with its own characteristics and package management systems. Some popular distros include Ubuntu, Fedora, Debian, CentOS, and Arch Linux.</p><p> </p><p>2. **Installation:**</p><p>   &#8211; Install a Linux distribution on your computer (dual-boot or virtual machine) to explore and experiment with Linux safely.</p><p> </p><p>3. **Linux Shell (Terminal):**</p><p>   &#8211; Familiarize yourself with the Linux command-line interface (shell) and basic shell commands like `ls`, `cd`, `mkdir`, `rm`, etc.</p><p> </p><p>4. **File System Structure:**</p><p>   &#8211; Learn about the Linux file system hierarchy and the purpose of important directories like `/bin`, `/home`, `/etc`, `/var`, etc.</p><p> </p><p>5. **Package Management:**</p><p>   &#8211; Understand how to use the package manager of your chosen distribution (`apt` for Debian-based, `dnf` for Fedora, `pacman` for Arch, etc.) to install, update, and remove software packages.</p><p> </p><p>6. **Users and Permissions:**</p><p>   &#8211; Learn about Linux user management, including creating users, assigning permissions, and managing groups.</p><p> </p><p>7. **Process Management:**</p><p>   &#8211; Understand how to manage processes, monitor system resources, and use commands like `ps`, `top`, `kill`, etc.</p><p> </p><p>8. **Networking:**</p><p>   &#8211; Learn about basic networking concepts in Linux, such as configuring network interfaces, setting up DNS, and troubleshooting network connectivity.</p><p> </p><p>9. **Text Editors:**</p><p>   &#8211; Familiarize yourself with text editors like `nano`, `vim`, or `emacs`, as they are commonly used in the Linux environment.</p><p> </p><p>10. **File Permissions:**</p><p>    &#8211; Understand Linux file permissions (read, write, execute) and how to modify them using commands like `chmod` and `chown`.</p><p> </p><p>11. **Shell Scripting:**</p><p>    &#8211; Explore shell scripting to automate repetitive tasks and perform system administration tasks more efficiently.</p><p> </p><p>12. **Linux Services:**</p><p>    &#8211; Learn about managing services in Linux using commands like `systemctl` and configuring services to start automatically during boot.</p><p> </p><p>13. **File Compression and Archives:**</p><p>    &#8211; Learn how to compress and decompress files using tools like `tar`, `gzip`, `bzip2`, `zip`, etc.</p><p> </p><p>14. **Backup and Restore:**</p><p>    &#8211; Understand how to back up and restore your system and data to prevent data loss.</p><p> </p><p>15. **Security:**</p><p>    &#8211; Explore basic Linux security practices, such as firewall configuration, securing SSH access, and regular system updates.</p><p> </p><p>16. **Online Resources:**</p><p>    &#8211; There are many online tutorials, forums, and documentation available for learning Linux. Websites like Linux Documentation Project (www.tldp.org) and Linux.com provide valuable resources.</p><p> </p><p>17. **Practice and Projects:**</p><p>    &#8211; Practice using Linux commands regularly and work on projects that involve system administration tasks to reinforce your knowledge.</p><p> </p><p>Remember, Linux is a vast and versatile operating system with a strong community. Don&#8217;t hesitate to ask questions, seek help from forums and communities, and experiment with different tasks to enhance your Linux skills. Happy exploring!</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-cfeb9c6 elementor-widget elementor-widget-video" data-id="cfeb9c6" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=_tCY-c-sPZc&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.15.0 - 31-07-2023 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;transform:translateZ(0)}.elementor-widget-video .elementor-wrapper{aspect-ratio:var(--video-aspect-ratio)}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{height:100%;width:100%;display:flex;border:none;background-color:#000}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-wrapper{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;right:0;bottom:0;left:0;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%;aspect-ratio:var(--video-aspect-ratio);-o-object-fit:cover;object-fit:cover;-o-object-position:center center;object-position:center center}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-custom-embed-image-overlay{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-custom-embed-image-overlay img{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-con-inner>.elementor-widget-video,.e-con>.elementor-widget-video{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/linux/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Python</title>
+		<link>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/python/</link>
+					<comments>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/python/#respond</comments>
+		
+		<dc:creator><![CDATA[letscoding]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2023 11:19:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">httpmdrijoanmaruf.github.io/letscoding/?p=836</guid>
+
+					<description><![CDATA[Learning Python is a fantastic choice for beginners and experienced developers alike. Python is a versatile and beginner-friendly programming language. Here&#8217;s a guideline to help you get started with Python:   1. **Installation:**    &#8211; Install Python on your computer. You can download the latest version of Python from the official website (https://www.python.org/). Python comes &#8230;<p class="read-more"> <a class="" href="httpmdrijoanmaruf.github.io/letscoding/2023/08/01/python/"> <span class="screen-reader-text">Python</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="836" class="elementor elementor-836">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-a1b60f8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a1b60f8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ea7de0" data-id="1ea7de0" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c703c28 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c703c28" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0a4c356" data-id="0a4c356" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f10464f elementor-widget elementor-widget-text-editor" data-id="f10464f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Learning Python is a fantastic choice for beginners and experienced developers alike. Python is a versatile and beginner-friendly programming language. Here&#8217;s a guideline to help you get started with Python:</p><p> </p><p>1. **Installation:**</p><p>   &#8211; Install Python on your computer. You can download the latest version of Python from the official website (https://www.python.org/). Python comes with an interactive shell (Python interpreter) that allows you to experiment with code snippets.</p><p> </p><p>2. **Basic Syntax:**</p><p>   &#8211; Familiarize yourself with Python&#8217;s simple and clean syntax. Learn about variables, data types, operators, and basic control flow statements like if-else, for loops, while loops, and more.</p><p> </p><p>3. **Functions:**</p><p>   &#8211; Understand how to define and call functions in Python. Functions are reusable blocks of code that help organize your program.</p><p> </p><p>4. **Data Structures:**</p><p>   &#8211; Explore Python&#8217;s built-in data structures like lists, tuples, sets, and dictionaries. Learn how to manipulate and work with these data structures.</p><p> </p><p>5. **File I/O:**</p><p>   &#8211; Learn how to read from and write to files in Python using file handling techniques.</p><p> </p><p>6. **Modules and Packages:**</p><p>   &#8211; Understand how to use modules and import external code into your Python programs. Learn about the Python Package Index (PyPI) and how to install third-party packages using `pip`.</p><p> </p><p>7. **Object-Oriented Programming (OOP):**</p><p>   &#8211; Learn about OOP concepts in Python, such as classes, objects, inheritance, and polymorphism.</p><p> </p><p>8. **Exception Handling:**</p><p>   &#8211; Explore Python&#8217;s exception handling mechanism to gracefully handle errors and exceptions in your code.</p><p> </p><p>9. **Standard Library:**</p><p>   &#8211; Familiarize yourself with Python&#8217;s extensive standard library, which provides many useful modules for tasks like string manipulation, file handling, web scraping, and more.</p><p> </p><p>10. **List Comprehensions:**</p><p>    &#8211; Learn about list comprehensions, a concise way to create lists in Python.</p><p> </p><p>11. **Generators and Iterators:**</p><p>    &#8211; Understand generators and iterators, which allow you to work with large datasets efficiently.</p><p> </p><p>12. **Functional Programming:**</p><p>    &#8211; Explore functional programming concepts in Python, such as lambda functions and the `map`, `filter`, and `reduce` functions.</p><p> </p><p>13. **Python Libraries and Frameworks:**</p><p>    &#8211; Explore popular Python libraries and frameworks, such as NumPy, Pandas, Django, Flask, Matplotlib, etc., based on your interests (e.g., data analysis, web development, etc.).</p><p> </p><p>14. **Practice and Projects:**</p><p>    &#8211; Practice coding regularly and work on projects to apply your knowledge and gain practical experience.</p><p> </p><p>15. **Online Resources:**</p><p>    &#8211; There are numerous online tutorials, documentation, and interactive platforms like Codecademy, Coursera, and freeCodeCamp that can help you learn Python.</p><p> </p><p>16. **Community Involvement:**</p><p>    &#8211; Join online Python communities and forums to ask questions, share knowledge, and collaborate with other developers.</p><p> </p><p>Python&#8217;s readability and versatility make it an enjoyable language to work with. Whether you&#8217;re a beginner or an experienced programmer, Python offers something for everyone. So, get coding and have fun exploring the world of Python! Happy coding!</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8e06895 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8e06895" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ff90ca9" data-id="ff90ca9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fe376fc elementor-widget elementor-widget-video" data-id="fe376fc" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=7wnove7K-ZQ&amp;list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/python/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>C++</title>
+		<link>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/c-2/</link>
+					<comments>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/c-2/#comments</comments>
+		
+		<dc:creator><![CDATA[letscoding]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2023 11:16:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">httpmdrijoanmaruf.github.io/letscoding/?p=830</guid>
+
+					<description><![CDATA[Learning C++ is an excellent step for those who want to build more complex and powerful applications. C++ is an extension of the C programming language with added features. Here&#8217;s a guideline to help you get started with C++: 1. **Environment Setup:** &#160; &#160;&#8211; Install a C++ compiler on your computer. Common choices include GCC &#8230;<p class="read-more"> <a class="" href="httpmdrijoanmaruf.github.io/letscoding/2023/08/01/c-2/"> <span class="screen-reader-text">C++</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="830" class="elementor elementor-830">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-cd8cdb5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cd8cdb5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3c772bd" data-id="3c772bd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-968dd37 elementor-widget elementor-widget-text-editor" data-id="968dd37" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Learning C++ is an excellent step for those who want to build more complex and powerful applications. C++ is an extension of the C programming language with added features. Here&#8217;s a guideline to help you get started with C++:</p><p><br></p><p>1. **Environment Setup:**</p><p>&nbsp; &nbsp;&#8211; Install a C++ compiler on your computer. Common choices include GCC (GNU Compiler Collection) for Unix-like systems and MinGW for Windows.</p><p><br></p><p>2. **Basic Syntax and Concepts:**</p><p>&nbsp; &nbsp;&#8211; Familiarize yourself with C++ syntax, data types, variables, and operators. Understand C++&#8217;s object-oriented concepts like classes and objects.</p><p><br></p><p>3. **Functions and Methods:**</p><p>&nbsp; &nbsp;&#8211; Learn about defining and using functions in C++. Also, explore member functions (methods) within classes.</p><p><br></p><p>4. **Classes and Objects:**</p><p>&nbsp; &nbsp;&#8211; Understand C++ classes and how to create objects from those classes. Learn about access specifiers (public, private, protected) and how they affect class members.</p><p><br></p><p>5. **Inheritance:**</p><p>&nbsp; &nbsp;&#8211; Explore inheritance in C++, which allows you to create a new class based on an existing class, inheriting its properties and methods.</p><p><br></p><p>6. **Polymorphism:**</p><p>&nbsp; &nbsp;&#8211; Learn about polymorphism, which allows objects of different classes to be treated as objects of a common base class.</p><p><br></p><p>7. **Templates:**</p><p>&nbsp; &nbsp;&#8211; Understand C++ templates, which enable you to write generic functions and classes that work with various data types.</p><p><br></p><p>8. **Standard Template Library (STL):**</p><p>&nbsp; &nbsp;&#8211; Familiarize yourself with the STL, which provides useful data structures (e.g., vectors, lists, maps) and algorithms (e.g., sorting, searching) to simplify C++ development.</p><p><br></p><p>9. **File I/O:**</p><p>&nbsp; &nbsp;&#8211; Learn how to read from and write to files in C++ using file streams.</p><p><br></p><p>10. **Exception Handling:**</p><p>&nbsp; &nbsp; &#8211; Explore C++&#8217;s exception handling mechanism to deal with runtime errors and exceptional situations.</p><p><br></p><p>11. **Smart Pointers:**</p><p>&nbsp; &nbsp; &#8211; Learn about C++ smart pointers (unique_ptr, shared_ptr, weak_ptr) to manage memory more efficiently and safely.</p><p><br></p><p>12. **C++ Standard Library:**</p><p>&nbsp; &nbsp; &#8211; Become familiar with the C++ Standard Library, which provides a wide range of functions and classes for common tasks.</p><p><br></p><p>13. **Debugging:**</p><p>&nbsp; &nbsp; &#8211; Use debugging tools and techniques (e.g., print statements, debugging environments) to find and fix issues in your C++ code.</p><p><br></p><p>14. **Coding Style and Best Practices:**</p><p>&nbsp; &nbsp; &#8211; Follow coding style guidelines and best practices to write clean, readable, and maintainable C++ code.</p><p><br></p><p>15. **Practice and Projects:**</p><p>&nbsp; &nbsp; &#8211; Practice coding regularly and work on small projects to apply your knowledge and gain experience.</p><p><br></p><p>16. **Resources and Books:**</p><p>&nbsp; &nbsp; &#8211; Consider reading books and tutorials on C++ programming. Some recommended books include &#8220;C++ Primer&#8221; by Stanley B. Lippman, &#8220;The C++ Programming Language&#8221; by Bjarne Stroustrup, and &#8220;Effective C++&#8221; by Scott Meyers.</p><p><br></p><p>17. **Online C++ Compiler:**</p><p>&nbsp; &nbsp; &#8211; Use online C++ compilers to practice coding without installing a local development environment.</p><p><br></p><p>Learning C++ may seem challenging at first, but with consistent practice and patience, you can become proficient in this powerful programming language. As you progress, consider exploring more advanced topics like multithreading, networking, and graphics programming. Happy coding!</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-842e6e0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="842e6e0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-baaa695" data-id="baaa695" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-55377a4 elementor-widget elementor-widget-video" data-id="55377a4" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=j8nAHeVKL08&amp;list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/c-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>C</title>
+		<link>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/c/</link>
+					<comments>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/c/#respond</comments>
+		
+		<dc:creator><![CDATA[letscoding]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2023 11:15:27 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">httpmdrijoanmaruf.github.io/letscoding/?p=824</guid>
+
+					<description><![CDATA[Learning C is a great way to start your journey into programming and computer science. C is a powerful and widely used programming language. Here&#8217;s a guideline to help you get started:   1. **Environment Setup:**    &#8211; Install a C compiler on your computer. Popular choices include GCC (GNU Compiler Collection) for Unix-like systems &#8230;<p class="read-more"> <a class="" href="httpmdrijoanmaruf.github.io/letscoding/2023/08/01/c/"> <span class="screen-reader-text">C</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="824" class="elementor elementor-824">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-697029b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="697029b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3d579fa" data-id="3d579fa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6106d46 elementor-widget elementor-widget-text-editor" data-id="6106d46" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Learning C is a great way to start your journey into programming and computer science. C is a powerful and widely used programming language. Here&#8217;s a guideline to help you get started:</p><p> </p><p>1. **Environment Setup:**</p><p>   &#8211; Install a C compiler on your computer. Popular choices include GCC (GNU Compiler Collection) for Unix-like systems and MinGW for Windows.</p><p> </p><p>2. **Basic Syntax:**</p><p>   &#8211; Learn about the basic syntax of C, including variables, data types, operators, and control flow statements like if-else, for loops, while loops, and switch statements.</p><p> </p><p>3. **Functions:**</p><p>   &#8211; Understand how to define and call functions in C. Functions are essential for organizing code and making it reusable.</p><p> </p><p>4. **Arrays and Pointers:**</p><p>   &#8211; Learn about arrays and how to work with them. Also, understand pointers, which are a powerful feature of C.</p><p> </p><p>5. **Memory Management:**</p><p>   &#8211; C does not have automatic garbage collection, so it&#8217;s crucial to understand memory management. Learn about dynamic memory allocation using functions like `malloc`, `calloc`, `realloc`, and `free`.</p><p> </p><p>6. **Structures and Unions:**</p><p>   &#8211; Explore C&#8217;s struct and union data types, which allow you to create more complex data structures.</p><p> </p><p>7. **File I/O:**</p><p>   &#8211; Learn how to read from and write to files in C using file I/O functions like `fopen`, `fprintf`, `fscanf`, etc.</p><p> </p><p>8. **Preprocessor Directives:**</p><p>   &#8211; Understand C&#8217;s preprocessor directives (#include, #define, etc.) and how they can be used to include header files and perform text substitutions.</p><p> </p><p>9. **Standard Library:**</p><p>   &#8211; Familiarize yourself with the C Standard Library, which provides a wide range of functions for common tasks like string manipulation, mathematical operations, and more.</p><p> </p><p>10. **Error Handling:**</p><p>    &#8211; Learn about error handling techniques in C, such as returning error codes or using the `errno` variable.</p><p> </p><p>11. **Debugging:**</p><p>    &#8211; Use debugging tools and techniques (e.g., `printf` statements, GDB) to find and fix issues in your C code.</p><p> </p><p>12. **Coding Style and Best Practices:**</p><p>    &#8211; Follow coding style guidelines and best practices to write clean, readable, and maintainable C code.</p><p> </p><p>13. **Practice and Projects:**</p><p>    &#8211; Practice coding regularly and work on small projects to apply your knowledge and gain experience.</p><p> </p><p>14. **Resources and Books:**</p><p>    &#8211; Consider reading books and tutorials on C programming. Some classic books include &#8220;The C Programming Language&#8221; by Brian Kernighan and Dennis Ritchie, and &#8220;C Programming Absolute Beginner&#8217;s Guide&#8221; by Perry and Miller.</p><p> </p><p>15. **Online C Compiler:**</p><p>    &#8211; Use online C compilers to practice coding without installing a local development environment.</p><p> </p><p>Remember, learning C requires practice and patience. Start with simple exercises and gradually tackle more complex problems. As you become more comfortable with C, you can explore other programming languages and build on the foundation you&#8217;ve established. Happy coding!</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c8713f8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c8713f8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-97774e7" data-id="97774e7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3cf4206 elementor-widget elementor-widget-video" data-id="3cf4206" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=ZSPZob_1TOk&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bootstrap</title>
+		<link>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/bootstrap/</link>
+					<comments>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/bootstrap/#respond</comments>
+		
+		<dc:creator><![CDATA[letscoding]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2023 11:09:17 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">httpmdrijoanmaruf.github.io/letscoding/?p=815</guid>
+
+					<description><![CDATA[Bootstrap is a popular front-end framework that makes it easier to create responsive and visually appealing web pages. Here&#8217;s a guideline to help you get started with Bootstrap:   1. **Link Bootstrap:**    &#8211; Start by adding Bootstrap to your project. You can do this by linking the Bootstrap CSS and JavaScript files in your &#8230;<p class="read-more"> <a class="" href="httpmdrijoanmaruf.github.io/letscoding/2023/08/01/bootstrap/"> <span class="screen-reader-text">Bootstrap</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="815" class="elementor elementor-815">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-930680b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="930680b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2e902c6" data-id="2e902c6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-434d97d elementor-widget elementor-widget-text-editor" data-id="434d97d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Bootstrap is a popular front-end framework that makes it easier to create responsive and visually appealing web pages. Here&#8217;s a guideline to help you get started with Bootstrap:</p><p> </p><p>1. **Link Bootstrap:**</p><p>   &#8211; Start by adding Bootstrap to your project. You can do this by linking the Bootstrap CSS and JavaScript files in your HTML document. You can either download the files or use a Content Delivery Network (CDN).</p><p> </p><p>2. **Grid System:**</p><p>   &#8211; Learn about Bootstrap&#8217;s grid system, which is based on a 12-column layout. Understand how to create responsive layouts using containers, rows, and columns.</p><p> </p><p>3. **Responsive Design:**</p><p>   &#8211; Bootstrap is designed to be mobile-first, meaning your web pages will look good on all screen sizes. Learn about the various classes and utilities provided by Bootstrap for responsive design.</p><p> </p><p>4. **Typography:**</p><p>   &#8211; Bootstrap offers a range of typography styles and classes to make your text look more attractive and consistent.</p><p> </p><p>5. **Buttons and Icons:**</p><p>   &#8211; Explore Bootstrap&#8217;s button styles and customize them according to your needs. Learn how to include icons from the Bootstrap Icon Library.</p><p> </p><p>6. **Navigation Components:**</p><p>   &#8211; Learn how to create responsive navigation bars, dropdown menus, and navigation pills using Bootstrap.</p><p> </p><p>7. **Forms and Inputs:**</p><p>   &#8211; Bootstrap provides styles for form elements like input fields, checkboxes, radio buttons, and more. Learn how to use Bootstrap&#8217;s form classes to create user-friendly forms.</p><p> </p><p>8. **Components:**</p><p>   &#8211; Explore Bootstrap&#8217;s built-in components like alerts, modals, carousels, tooltips, and more. These components can save you time and effort in building common UI elements.</p><p> </p><p>9. **Utilities:**</p><p>   &#8211; Bootstrap offers various utility classes for spacing, alignment, colors, and more. Understand how to use these classes to fine-tune your layout and styles.</p><p> </p><p>10. **Customization:**</p><p>    &#8211; Bootstrap allows you to customize the framework according to your project&#8217;s requirements. You can use the Bootstrap website&#8217;s customization tool or modify the source files directly.</p><p> </p><p>11. **Bootstrap Themes:**</p><p>    &#8211; Consider using pre-made Bootstrap themes to give your website a unique look without starting from scratch.</p><p> </p><p>12. **Browser Compatibility:**</p><p>    &#8211; Check the browser compatibility of Bootstrap features to ensure a consistent experience across different browsers.</p><p> </p><p>13. **Documentation:**</p><p>    &#8211; Refer to the official Bootstrap documentation (getbootstrap.com/docs) for in-depth information and examples of each component and utility class.</p><p> </p><p>14. **Practice and Projects:**</p><p>    &#8211; Practice building web pages and small projects using Bootstrap to reinforce your knowledge.</p><p> </p><p>15. **Stay Updated:**</p><p>    &#8211; Bootstrap continues to evolve, with new versions and updates. Stay updated with the latest changes and improvements.</p><p> </p><p>Bootstrap can significantly speed up your development process and help you create responsive and visually appealing websites with less effort. Happy coding!</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3efe1bf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3efe1bf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cb448d6" data-id="cb448d6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fb39066 elementor-widget elementor-widget-video" data-id="fb39066" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=vpAJ0s5S2t0&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/bootstrap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Javascript</title>
+		<link>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/javascript/</link>
+					<comments>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/javascript/#respond</comments>
+		
+		<dc:creator><![CDATA[letscoding]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2023 10:57:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">httpmdrijoanmaruf.github.io/letscoding/?p=796</guid>
+
+					<description><![CDATA[Learning JavaScript is a powerful step towards becoming a web developer. Here&#8217;s a guideline to help you get started:   1. **Basic JavaScript Concepts:**    &#8211; Understand variables, data types, operators, and basic syntax in JavaScript.    &#8211; Learn about functions and how to define and call them.    &#8211; Explore control flow statements such &#8230;<p class="read-more"> <a class="" href="httpmdrijoanmaruf.github.io/letscoding/2023/08/01/javascript/"> <span class="screen-reader-text">Javascript</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="796" class="elementor elementor-796">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-b96e49b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b96e49b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1033478" data-id="1033478" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ff9dfa2 elementor-widget elementor-widget-text-editor" data-id="ff9dfa2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Learning JavaScript is a powerful step towards becoming a web developer. Here&#8217;s a guideline to help you get started:</p><p> </p><p>1. **Basic JavaScript Concepts:**</p><p>   &#8211; Understand variables, data types, operators, and basic syntax in JavaScript.</p><p>   &#8211; Learn about functions and how to define and call them.</p><p>   &#8211; Explore control flow statements such as if-else, for loops, while loops, etc.</p><p> </p><p>2. **DOM Manipulation:**</p><p>   &#8211; Learn about the Document Object Model (DOM) and how JavaScript can interact with HTML elements on a web page.</p><p>   &#8211; Understand how to access and modify HTML elements using JavaScript.</p><p> </p><p>3. **Events:**</p><p>   &#8211; Learn how to handle various events like click, submit, keypress, etc., and perform actions based on those events.</p><p> </p><p>4. **Asynchronous JavaScript:**</p><p>   &#8211; Understand asynchronous programming concepts.</p><p>   &#8211; Learn about callbacks, Promises, and the newer async/await syntax to handle asynchronous operations.</p><p> </p><p>5. **Arrays and Objects:**</p><p>   &#8211; Learn about JavaScript arrays and their built-in methods for manipulation.</p><p>   &#8211; Understand objects, properties, and methods to represent and work with complex data.</p><p> </p><p>6. **JSON:**</p><p>   &#8211; Learn about JSON (JavaScript Object Notation) and how to parse and stringify data in JSON format.</p><p> </p><p>7. **Error Handling:**</p><p>   &#8211; Learn about try-catch blocks to handle errors gracefully in JavaScript code.</p><p> </p><p>8. **Scope and Closures:**</p><p>   &#8211; Understand JavaScript&#8217;s function scope and lexical scope.</p><p>   &#8211; Learn about closures and how they allow functions to retain access to their outer scope even after execution.</p><p> </p><p>9. **ES6 Features:**</p><p>   &#8211; Explore modern JavaScript features introduced in ECMAScript 6 (ES6) and later versions.</p><p>   &#8211; Learn about let and const, arrow functions, template literals, spread and rest operators, etc.</p><p> </p><p>10. **Built-in Objects and Functions:**</p><p>    &#8211; Familiarize yourself with JavaScript&#8217;s built-in objects like Math, Date, String, etc.</p><p>    &#8211; Learn about commonly used built-in functions like parseInt, parseFloat, setTimeout, setInterval, etc.</p><p> </p><p>11. **DOM Manipulation Libraries:**</p><p>    &#8211; Consider learning and using libraries like jQuery for easier and more efficient DOM manipulation.</p><p> </p><p>12. **AJAX and Fetch API:**</p><p>    &#8211; Learn how to make asynchronous requests to servers using AJAX or the newer Fetch API.</p><p> </p><p>13. **Modular JavaScript:**</p><p>    &#8211; Explore module patterns to organize your JavaScript code and keep it maintainable.</p><p> </p><p>14. **Debugging and Browser Developer Tools:**</p><p>    &#8211; Familiarize yourself with browser developer tools (e.g., Chrome DevTools) to debug JavaScript code effectively.</p><p> </p><p>15. **Practice and Projects:**</p><p>    &#8211; Work on small projects to apply your knowledge and gain practical experience.</p><p> </p><p>16. **Stay Updated:**</p><p>    &#8211; JavaScript evolves rapidly, with new features and improvements. Stay updated with the latest ECMAScript specifications and best practices.</p><p> </p><p>Remember that practice is essential in becoming proficient in JavaScript. Start with simple exercises and gradually move on to more complex projects. As you gain experience, you&#8217;ll become more comfortable and confident in using JavaScript to build interactive and dynamic web applications. Happy coding!</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ff3461f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ff3461f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b0ceeb6" data-id="b0ceeb6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-00a591b elementor-widget elementor-widget-video" data-id="00a591b" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/hKB-YGF14SY&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/javascript/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CSS</title>
+		<link>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/css/</link>
+					<comments>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/css/#respond</comments>
+		
+		<dc:creator><![CDATA[letscoding]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2023 10:40:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">httpmdrijoanmaruf.github.io/letscoding/?p=767</guid>
+
+					<description><![CDATA[Css guidline Learning CSS (Cascading Style Sheets) is essential for styling and formatting web pages. Here&#8217;s a guideline to help you get started:   1. **Basic Syntax:**    &#8211; Understand the CSS syntax, which consists of rulesets containing selectors and declarations. Declarations define the style properties applied to selected elements.   2. **Selectors:**    &#8211; &#8230;<p class="read-more"> <a class="" href="httpmdrijoanmaruf.github.io/letscoding/2023/08/01/css/"> <span class="screen-reader-text">CSS</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="767" class="elementor elementor-767">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-c382190 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c382190" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5ebe578" data-id="5ebe578" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-35c0c63 elementor-widget elementor-widget-heading" data-id="35c0c63" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.15.0 - 31-07-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Css guidline</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-df5cdb3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="df5cdb3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a944948" data-id="a944948" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-018f4a4 elementor-widget elementor-widget-text-editor" data-id="018f4a4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Learning CSS (Cascading Style Sheets) is essential for styling and formatting web pages. Here&#8217;s a guideline to help you get started:</p><p> </p><p>1. **Basic Syntax:**</p><p>   &#8211; Understand the CSS syntax, which consists of rulesets containing selectors and declarations. Declarations define the style properties applied to selected elements.</p><p> </p><p>2. **Selectors:**</p><p>   &#8211; Learn about different types of selectors, such as element selectors, class selectors (`.class`), ID selectors (`#id`), and attribute selectors. Selectors help you target specific HTML elements to apply styles.</p><p> </p><p>3. **Box Model:**</p><p>   &#8211; Understand the CSS box model, which defines how elements are rendered in boxes with content, padding, borders, and margins.</p><p> </p><p>4. **Typography:**</p><p>   &#8211; Learn how to style text, including font properties (family, size, weight, etc.).</p><p>   &#8211; Explore text formatting properties like `text-align`, `line-height`, `text-decoration`, and `text-transform`.</p><p> </p><p>5. **Colors and Backgrounds:**</p><p>   &#8211; Understand various color representations (hexadecimal, RGB, HSL) and how to apply colors to elements.</p><p>   &#8211; Learn how to set backgrounds using background-color and background-image properties.</p><p> </p><p>6. **Layout:**</p><p>   &#8211; Learn about positioning (`position` property) and the different values: `static`, `relative`, `absolute`, and `fixed`.</p><p>   &#8211; Explore CSS Flexbox for one-dimensional layouts and CSS Grid for two-dimensional layouts.</p><p> </p><p>7. **Box Sizing:**</p><p>   &#8211; Understand the `box-sizing` property and how it affects the size calculation of elements, especially when using borders and padding.</p><p> </p><p>8. **Responsive Design:**</p><p>   &#8211; Learn about media queries to create responsive designs that adapt to different screen sizes and devices.</p><p> </p><p>9. **Transitions and Animations:**</p><p>   &#8211; Explore CSS transitions (`transition` property) and animations (`@keyframes`) to add smooth effects to elements.</p><p> </p><p>10. **Pseudo-classes and Pseudo-elements:**</p><p>    &#8211; Understand how to use pseudo-classes (`:hover`, `:active`, `:focus`, etc.) and pseudo-elements (`::before`, `::after`, etc.) to apply styles based on element states or add decorative elements.</p><p> </p><p>11. **CSS Frameworks:**</p><p>    &#8211; Consider exploring CSS frameworks like Bootstrap, Foundation, or Bulma, which offer pre-designed components and responsive layouts.</p><p> </p><p>12. **CSS Preprocessors:**</p><p>    &#8211; Learn about CSS preprocessors like Sass or Less, which extend the capabilities of CSS and make your stylesheets more maintainable.</p><p> </p><p>13. **Browser Developer Tools:**</p><p>    &#8211; Familiarize yourself with browser developer tools (e.g., Chrome DevTools) to inspect and manipulate CSS properties on live web pages.</p><p> </p><p>14. **Practice and Projects:**</p><p>    &#8211; Apply what you&#8217;ve learned through hands-on projects. Create different types of layouts and styles to reinforce your knowledge.</p><p> </p><p>15. **Stay Updated:**</p><p>    &#8211; CSS is continuously evolving. Stay updated with the latest CSS specifications and browser support for new features.</p><p> </p><p>Remember, practice and experimentation are crucial to becoming proficient in CSS. As you work on more projects, you&#8217;ll gain confidence and develop your own style. Happy coding!</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f70989a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f70989a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b327e91" data-id="b327e91" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-247c564 elementor-widget elementor-widget-video" data-id="247c564" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Edsxf_NBFrw&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/css/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HTML</title>
+		<link>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/html/</link>
+					<comments>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/html/#respond</comments>
+		
+		<dc:creator><![CDATA[letscoding]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2023 10:36:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">httpmdrijoanmaruf.github.io/letscoding/?p=762</guid>
+
+					<description><![CDATA[Learning HTML is a great way to start your journey into web development. HTML (HyperText Markup Language) is the standard markup language for creating web pages. Here&#8217;s a guideline to help you get started: 1. **Understand the Basics:** &#160; &#160;&#8211; HTML is composed of elements represented by tags. Tags are enclosed in angle brackets, like &#8230;<p class="read-more"> <a class="" href="httpmdrijoanmaruf.github.io/letscoding/2023/08/01/html/"> <span class="screen-reader-text">HTML</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="762" class="elementor elementor-762">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-75b21caf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="75b21caf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4f122c52" data-id="4f122c52" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d132d9 elementor-widget elementor-widget-text-editor" data-id="d132d9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-be618ad elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="be618ad" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bbfcfea" data-id="bbfcfea" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c787865 elementor-widget elementor-widget-text-editor" data-id="c787865" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Learning HTML is a great way to start your journey into web development. HTML (HyperText Markup Language) is the standard markup language for creating web pages. Here&#8217;s a guideline to help you get started:</p><p><br></p><p>1. **Understand the Basics:**</p><p>&nbsp; &nbsp;&#8211; HTML is composed of elements represented by tags. Tags are enclosed in angle brackets, like `&lt;tag&gt;content&lt;/tag&gt;`.</p><p>&nbsp; &nbsp;&#8211; Learn about the basic structure of an HTML document, which includes the `&lt;!DOCTYPE&gt;`, `&lt;html&gt;`, `&lt;head&gt;`, and `&lt;body&gt;` elements.</p><p><br></p><p>2. **Text Formatting:**</p><p>&nbsp; &nbsp;&#8211; Learn about different heading tags (`&lt;h1&gt;` to `&lt;h6&gt;`) for headings of various sizes.</p><p>&nbsp; &nbsp;&#8211; Use paragraph tags `&lt;p&gt;` for paragraphs.</p><p>&nbsp; &nbsp;&#8211; Explore text formatting tags like `&lt;em&gt;`, `&lt;strong&gt;`, `&lt;u&gt;`, `&lt;s&gt;`, etc.</p><p><br></p><p>3. **Lists and Links:**</p><p>&nbsp; &nbsp;&#8211; Understand how to create unordered lists (`&lt;ul&gt;`) and ordered lists (`&lt;ol&gt;`).</p><p>&nbsp; &nbsp;&#8211; Learn how to create list items using `&lt;li&gt;` tags.</p><p>&nbsp; &nbsp;&#8211; Create hyperlinks using the `&lt;a&gt;` tag.</p><p><br></p><p>4. **Images and Multimedia:**</p><p>&nbsp; &nbsp;&#8211; Use the `&lt;img&gt;` tag to display images.</p><p>&nbsp; &nbsp;&#8211; Learn how to embed audio and video with the `&lt;audio&gt;` and `&lt;video&gt;` tags.</p><p><br></p><p>5. **Tables:**</p><p>&nbsp; &nbsp;&#8211; Explore the `&lt;table&gt;` tag to create data tables.</p><p>&nbsp; &nbsp;&#8211; Use `&lt;tr&gt;` for table rows, `&lt;td&gt;` for table data cells, and `&lt;th&gt;` for table headers.</p><p><br></p><p>6. **Forms and Input:**</p><p>&nbsp; &nbsp;&#8211; Understand how to create forms using the `&lt;form&gt;` tag.</p><p>&nbsp; &nbsp;&#8211; Use various input types like text, radio buttons, checkboxes, and buttons.</p><p><br></p><p>7. **Semantic HTML:**</p><p>&nbsp; &nbsp;&#8211; Learn about semantic HTML elements like `&lt;header&gt;`, `&lt;nav&gt;`, `&lt;main&gt;`, `&lt;section&gt;`, `&lt;article&gt;`, `&lt;footer&gt;`, etc. These provide more meaningful structure to your content and are essential for accessibility and SEO.</p><p><br></p><p>8. **HTML5 APIs:**</p><p>&nbsp; &nbsp;&#8211; Explore new HTML5 features like geolocation, canvas, local storage, etc.</p><p><br></p><p>9. **Validation and Testing:**</p><p>&nbsp; &nbsp;&#8211; Use W3C&#8217;s HTML validator to ensure your HTML code is error-free and follows the standards.</p><p><br></p><p>10. **Online Resources:**</p><p>&nbsp; &nbsp; &#8211; There are many online resources and tutorials available for learning HTML. Some popular ones include MDN Web Docs (developer.mozilla.org), W3Schools (www.w3schools.com), and freeCodeCamp (www.freecodecamp.org).</p><p><br></p><p>11. **Practice and Projects:**</p><p>&nbsp; &nbsp; &#8211; Hands-on practice is crucial to reinforce your learning. Start building small web pages and gradually move on to more complex projects.</p><p><br></p><p>12. **Stay Updated:**</p><p>&nbsp; &nbsp; &#8211; The web development landscape is constantly evolving. Stay updated with the latest HTML standards and best practices.</p><p><br></p><p><span style="background-color: var(--ast-global-color-5);">Remember, HTML is just one part of web development. To create complete and interactive websites, you&#8217;ll also need to learn CSS (Cascading Style Sheets) for styling and JavaScript for interactivity. The combination of these three technologies forms the foundation of modern web development. Happy learning!</span>.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-af920ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="af920ba" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c906cff" data-id="c906cff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b05cc52 elementor-widget elementor-widget-video" data-id="b05cc52" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=BsDoLVMnmZs&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>httpmdrijoanmaruf.github.io/letscoding/2023/08/01/html/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
